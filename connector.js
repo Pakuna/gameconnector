@@ -1,6 +1,6 @@
-const GameConnector = {
+export class GameConnector {
 
     constructor(firebase) {
-
+        console.log(firebase);
     }
 };
